@@ -181,20 +181,20 @@ YearRemodAdd: Remodel date (same as construction date if no remodeling or additi
 
 RoofStyle: Type of roof
 
-       Flat	Flat
-       Gable	Gable
+       Flat	       Flat
+       Gable	       Gable
        Gambrel	Gabrel (Barn)
-       Hip	Hip
+       Hip	       Hip
        Mansard	Mansard
-       Shed	Shed
+       Shed	       Shed
 		
 RoofMatl: Roof material
 
        ClyTile	Clay or Tile
        CompShg	Standard (Composite) Shingle
        Membran	Membrane
-       Metal	Metal
-       Roll	Roll
+       Metal	       Metal
+       Roll	       Roll
        Tar&Grv	Gravel & Tar
        WdShake	Wood Shakes
        WdShngl	Wood Shingles
@@ -230,11 +230,11 @@ Exterior2nd: Exterior covering on house (if more than one material)
        HdBoard	Hard Board
        ImStucc	Imitation Stucco
        MetalSd	Metal Siding
-       Other	Other
+       Other	       Other
        Plywood	Plywood
        PreCast	PreCast
-       Stone	Stone
-       Stucco	Stucco
+       Stone	       Stone
+       Stucco	       Stucco
        VinylSd	Vinyl Siding
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
